@@ -1,7 +1,7 @@
 # Bitnami-Kafka
 
 
-## Prerequisite
+## Prerequisites
 
 - [x] Install Docker Engine
 - [x] Install docker-compose
@@ -32,6 +32,6 @@ sudo docker-compose ps
 
 **2. Open the following URL in your browser to see the dashboard.**
 
-- URL: `http://<Kafka Server (e.g. 172.16.2.40)>:9021/`
+- URL: `http://<Kafla Server (e.g. 172.16.2.40)>:9021/`
 
 **3. You can check received messages by selecting "Topics" -> "sensor_events" -> "Messages" in the dashboard**
